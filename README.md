@@ -1,10 +1,11 @@
-<h1 align="center">
-Have you ever dreamed?
-</h1>
+
+<c>
+HAVE YOU EVER DREAMED?
+</c>
 
 # Introduction
 
-This project has its roots in my bachelor thesis, where I analyzed and considered new possible concesert forms, based on multisensory and interaction with the public.
+This project has its roots in my bachelor thesis, where I analyzed and considered new possible concert forms, based on multisensory and interaction with the public.
 
 The multisensory realization was based on being able to give shape and space to the music that is played. Within a system of particles with mass, thanks to an algorithm, the frequencies played were interpolated to generate a point of attraction for the individual
 masses.
