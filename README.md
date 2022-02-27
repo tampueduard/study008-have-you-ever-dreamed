@@ -94,7 +94,7 @@ Before introducing this last method is useful to explain briefly how the granula
 
 Once said this, this approach wants to open an interaction with musician especially. Is realized to create a system that allows a dialogue between the musician and the machine, where the executor plays and interacts with the particle system and in response the system interacts thanks to the granular synthesis with the executor in a dialogue of voices. Where the executor hears the re-elaboration of one recorded sample or can interact with pre-recorded materials (or both).
 
-In the following will be explained the system and how it returns a coordinate, excluding the algorithm that realize the conversion from frequency to (x, y, z) coordinate that is explained [here](coordinates_from_frequency/README.md) and the [interpolation]((coordinate_from_frequency/README.md/#interpolation-of-points)) of the points, that is a close process of the previous.  
+In the following will be explained the system and how it returns a coordinate, excluding the algorithm that realize the conversion from frequency to (x, y, z) coordinate that is explained [here](coordinate_from_frequency/README.md) and the [interpolation](coordinate_from_frequency/README.md/#interpolation-of-points) of the points, that is a close process of the previous.  
 
 To begin with, is required a input signal from a microphone. After that, for the system to work the signal is analyzed for pitch detection.
 
@@ -106,7 +106,7 @@ Parallel to the pitch tracking is the detection of a change in what is played, u
 <img src="img/signal_in_and_pitch_detection.png" width="800">
 </p>
 
-The process then goes trough the conversion method that, as mentioned is explained [here](coordinates_from_frequency/README.md). The end result is a given interpolated coordinate and in addition, for the purpose of the system, this values are delayed to a factor of choice of the user, generation a second point of attraction inside the system. 
+The process then goes trough the conversion method that, as mentioned is explained [here](coordinate_from_frequency/README.md). The end result is a given interpolated coordinate and in addition, for the purpose of the system, this values are delayed to a factor of choice of the user, generation a second point of attraction inside the system. 
 
 <p  align="center">
 <img src="img/frequency_to_target.png" width="800">
