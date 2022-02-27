@@ -1,4 +1,3 @@
-
 <c>
 HAVE YOU EVER DREAMED?
 </c>
