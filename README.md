@@ -189,3 +189,9 @@ As said earlier talking about the random use of the values, it was mentioned tha
 <p  align="center">
 <img src="img/panning.png" width="800">
 </p>
+
+# Listenings 
+
+You can find two realisation of this project with two different approaches, to the following links: 
+  - [OSC motion sensors (data visualization)](https://youtu.be/QCwg8p2Dauo)
+  - [Signal input as method of interaction](https://youtu.be/N5PPy4o6T1I)
