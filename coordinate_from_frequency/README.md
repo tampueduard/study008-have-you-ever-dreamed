@@ -1,3 +1,7 @@
+<c>
+	COORDINATE FROM FREQUENCY
+	</c>
+
 # Introduction
 
 This algorithm wants to realize the translation of a frequency to a (x, y, z) point in space.
