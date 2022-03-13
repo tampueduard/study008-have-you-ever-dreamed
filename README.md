@@ -100,7 +100,7 @@ To begin with, is required a input signal from a microphone. After that, for the
 
 Note. In this patch is used the ```retune~``` object, with the specification ```@pitchdetection 1```. Other modules for pitch detection can be used (such as ```sigmund~```) or other methods can be applied. Note also, the pitch detection works for monophonic instruments, but quite interesting results can be achieved (for the purpose of this realization) also using polyphonic instruments but having a non-precise lecture of the frequencies played. 
 
-Parallel to the pitch tracking is the detection of a change in what is played, using ```bonk~``` object that a detector of attach in an incoming signal. This is used as trigger during future processes, because of the high stream of information that is returned by the pitch tracker and the high disadvantages in using each new value as triggering factor. 
+Parallel to the pitch tracking is the detection of a change in what is played, using ```bonk~``` object that is a detector of attach in an incoming signal. This is used as trigger during future processes, because of the high stream of information that is returned by the pitch tracker and the high disadvantages in using each new value as triggering factor. 
 
 <p  align="center">
 <img src="img/signal_in_and_pitch_detection.png" width="800">
