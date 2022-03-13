@@ -46,18 +46,18 @@ var c4;
 
     // Semitones inside the octave zero
 
-        var c0 		= 	a4 * ( Math.pow(2, ( -57 / 12)));
+            var c0 	= 	a4 * ( Math.pow(2, ( -57 / 12)));
 	    var c0_sh 	= 	a4 * ( Math.pow(2, ( -56 / 12)));
-	    var d0 		= 	a4 * ( Math.pow(2, ( -55 / 12)));
+	    var d0 	= 	a4 * ( Math.pow(2, ( -55 / 12)));
 	    var d0_sh	= 	a4 * ( Math.pow(2, ( -54 / 12)));
-	    var e0 		= 	a4 * ( Math.pow(2, (- 53 / 12)));
-	    var f0 		= 	a4 * ( Math.pow(2, ( -52 / 12)));
+	    var e0 	= 	a4 * ( Math.pow(2, (- 53 / 12)));
+	    var f0 	= 	a4 * ( Math.pow(2, ( -52 / 12)));
 	    var f0_sh 	= 	a4 * ( Math.pow(2, ( -51 / 12)));
-	    var g0 		= 	a4 * ( Math.pow(2, (- 50 / 12 )));
+	    var g0 	= 	a4 * ( Math.pow(2, (- 50 / 12 )));
 	    var g0_sh 	= 	a4 * ( Math.pow(2, ( - 49 / 12)));
-	    var a0 		= 	a4 * ( Math.pow(2, ( - 48 / 12)));
+	    var a0 	= 	a4 * ( Math.pow(2, ( - 48 / 12)));
 	    var a0_sh 	= 	a4 * ( Math.pow(2, ( - 47 / 12)));
-	    var b0 		= 	a4 * ( Math.pow(2, ( - 46 / 12)));
+	    var b0 	= 	a4 * ( Math.pow(2, ( - 46 / 12)));
 
 ```
 Other variables to keep present of:
