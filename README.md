@@ -193,5 +193,5 @@ As said earlier talking about the random use of the values, it was mentioned tha
 # Listenings 
 
 You can find two realisation of this project with two different approaches, to the following links: 
-  - [OSC motion sensors (data visualization)](https://youtu.be/QCwg8p2Dauo)
+  - [OSC motion sensors (data visualization)](https://youtu.be/ar-U1BCVSf8)
   - [Signal input as method of interaction](https://youtu.be/N5PPy4o6T1I)
